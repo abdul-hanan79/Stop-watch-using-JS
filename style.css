@@ -1,0 +1,20 @@
+body{
+    background-image: url(pexels-pixabay-373543\ \(1\).jpg);
+    text-align: center;
+    padding: 100px;
+}
+h1.digit
+{
+    color: black;
+    display: inline-block;
+    padding: 50px 40px 50px 40px;
+    background-color: white;
+    font-size: 70px;
+    
+}
+button
+{
+    width: 100px;
+    height: 40px;
+     border-radius: 3px;
+}
